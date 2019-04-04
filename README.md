@@ -15,4 +15,4 @@
 ## 想好了，确定加入 吗？
 入群面基（微信面试，通过测试即可入群），五个问题，准备好开始了吗？
 
-![file-list](https://raw.githubusercontent.com/baichunpeng/codedad/wechat.jpg)
+![file-list](https://raw.githubusercontent.com/baichunpeng/codedad/master/wechat.jpg)
